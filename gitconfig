@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = niaalique01@gmail.com
+	name = Nia Gentle
